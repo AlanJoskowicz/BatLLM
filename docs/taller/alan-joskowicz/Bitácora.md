@@ -26,6 +26,7 @@ Se propone un flujo de trabajo en GitHub más concreto: fork de un fork del proy
 Se propone que cada uno (o en subgrupos) dediquemos tiempo a entender a una sección del flujo del código.
 Se propone que busquemos puntos de mejora: tanto solucionar erroes como expandir el proyecto.
 
-# 8-11-2026 Primer bitácota - 1 hora
+# 8-11-2026 Primer bitácota - 4 hora
 Se crea un fork desde https://github.com/Taller-BatLLM/BatLLM.git y se clona localmente.
 Se redacta la bitácota hasta esta entrada.
+Se crea parser_analysis.py con el objetivo de ejecutar un test sobre si conviene implementar un parser que fuerce al modelo a responder con un formato JSON dado. Tdoavía en proceso.
